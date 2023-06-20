@@ -20,7 +20,7 @@ with st.container():
     left_column, right_column = st.columns(2)
 
     with left_column:
-        st.title("This is a Data Anlysis on Game Sales")
+        st.title("This is the Data Anlaysis on Game Sales")
     with right_column:
         st_lottie(lottie, height=140)
 
